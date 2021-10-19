@@ -1,0 +1,7 @@
+Api utilizada ------------------------------- https://openlayers.org/
+DIV com scroll ------------------------------ https://www.it-swarm.dev/pt/css/html-como-criar-um-div-com-apenas-barras-de-rolagem-verticais-para-paragrafos-longos/968199194/
+Alterando estilo da scrollbar --------------- https://www.maujor.com/tutorial/scroll_bar.php#:~:text=mudar%20a%20posi%C3%A7%C3%A3o%20da%20barra,left%20)%20aplicada%20no%20elemento%20body%20.&text=Acrescente%20esta%20regra%20no%20c%C3%B3digo,um%20texto%20qualquer%20no%20documento.
+Como tirar as setas do input number --------- https://pt.stackoverflow.com/questions/177573/retirar-as-setas-no-campo-tipo-number
+Eventos JS ---------------------------------- https://www.devmedia.com.br/trabalhando-com-eventos-em-javascript/28521
+Mouse ignorando a imagem[1] ----------------- https://www.it-swarm.dev/pt/javascript/ignorar-interacao-do-mouse-na-imagem-de-sobreposicao/968868743/
+Mouse ignorando a imagem[2] ----------------- https://developer.mozilla.org/pt-BR/docs/Web/CSS/pointer-events
